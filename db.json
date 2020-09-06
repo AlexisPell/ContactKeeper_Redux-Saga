@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "John Doe ",
+      "phone": "8-800-555-35-35",
+      "type": "personal",
+      "id": 2
+    },
+    {
+      "name": "Sam Smith",
+      "phone": "222-222-22-22",
+      "type": "personal",
+      "id": 3
+    },
+    {
+      "name": "Lamar Kalmar",
+      "phone": "88005553535",
+      "type": "Buddy",
+      "id": 4
+    },
+    {
+      "name": "Alexis Pell",
+      "phone": "+7 (000) 000-00-00",
+      "type": "Buddy",
+      "id": 5
+    },
+    {
+      "name": "Sima Lend",
+      "phone": "8-012-345-67-89",
+      "type": "Employee",
+      "id": 6
+    }
+  ]
+}
